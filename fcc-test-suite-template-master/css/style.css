@@ -1,9 +1,9 @@
 #welcome-section {
   height: 100vh;
 }
-@media (max-width: 600px) {
-  a {
-    text-decoration: none;
+@media screen and (min-width: 480px) {
+  body {
+    background-color: #999;
   }
 }
 #navbar {
